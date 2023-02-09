@@ -1,0 +1,1 @@
+Para abrir o código no drracket é necessário uma versão recente do programa.
